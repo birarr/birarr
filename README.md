@@ -4,7 +4,7 @@
 
 ## Olá pessoal 👋
 I'm passionate for solving problems and help people.
-I'm looking for a job as a Developer :computer:
+I'm looking for learning each day more about a developing :computer:
 
 
  <br/> :purple_heart: &nbsp; I'm studying most JS and React.
