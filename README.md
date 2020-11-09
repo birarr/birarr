@@ -3,7 +3,7 @@
 # Ubiratan Rodrigues
 
 ## Olá pessoal 👋
-I'm passionate for solving problems and help people.
+I'm passionate for solving problems and help people. __--__--__
 I'm looking for learning each day more about a developing :computer:
 
 
