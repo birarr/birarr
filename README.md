@@ -5,7 +5,7 @@
 ## Olá pessoal 👋
 I'm passionate for solving problems and help people.
 <br>
-I'm looking for learning each day more about a developing :computer:
+I'm looking for learning each day more about developing :computer:
 
 
  <br/> :purple_heart: &nbsp; I'm studying most JS and React.
