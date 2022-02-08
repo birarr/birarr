@@ -2,7 +2,7 @@
 
 # Ubiratan Rodrigues
 
-## Olá pessoal 👋
+## Hello everybody 👋
 I'm passionate for solving problems and help people.
 <br>
 I'm looking for learning each day more about developing :computer:
